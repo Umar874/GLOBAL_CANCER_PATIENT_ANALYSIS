@@ -3,7 +3,14 @@ This analysis examines global cancer patient data to reveal demographic patterns
 
 
 
-![Uploading GLOBAL CANCER DASHBOARD.png…]()
+
+
+
+<img width="1753" height="775" alt="GLOBAL CANCER DASHBOARD" src="https://github.com/user-attachments/assets/2fb9369b-a848-460f-8fd0-98a083ccdd12" />
+
+
+
+
 
 
 
